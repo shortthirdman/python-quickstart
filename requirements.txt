@@ -1,0 +1,11 @@
+speechrecognition
+pyaudio
+pyttsx3
+pypiwin32
+gTTS
+wolframalpha
+speech_recognition
+playsound
+selenium
+pytube
+notify2
