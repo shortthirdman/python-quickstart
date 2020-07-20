@@ -1,3 +1,6 @@
+#pip install instaloader
+#pip install instalooter
+
 speechrecognition
 pyaudio
 pyttsx3
@@ -9,3 +12,6 @@ playsound
 selenium
 pytube
 notify2
+
+instalooter==2.4.3
+instaloader==4.4.4
