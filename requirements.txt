@@ -1,5 +1,6 @@
 #pip install instaloader
 #pip install instalooter
+#pip install phonenumbers
 
 speechrecognition
 pyaudio
@@ -12,6 +13,7 @@ playsound
 selenium
 pytube
 notify2
+phonenumbers
 
 instalooter==2.4.3
 instaloader==4.4.4
