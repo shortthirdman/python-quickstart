@@ -1,6 +1,9 @@
 #pip install instaloader
+#pip install numerizer
 #pip install instalooter
 #pip install phonenumbers
+#pip install pyforest
+#pip install holidays
 
 speechrecognition
 pyaudio
@@ -17,3 +20,7 @@ phonenumbers
 
 instalooter==2.4.3
 instaloader==4.4.4
+
+numerizer 
+pyforest
+holidays

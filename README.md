@@ -13,3 +13,7 @@
 [Get Phone Number Information](https://www.geeksforgeeks.org/get-phone-number-information-using-python/)
 
 [Twitter Sentiment Analysis](https://realpython.com/twitter-sentiment-python-docker-elasticsearch-kibana/)
+
+[Python Faker](https://www.geeksforgeeks.org/python-faker-library)
+
+[Holidays](https://geeksforgeeks.org/python-holidays-library/)
