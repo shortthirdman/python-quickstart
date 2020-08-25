@@ -1,0 +1,6 @@
+#pip install --no-cache-dir pillow qrcode pypng pyqrcode
+
+pyqrcode==1.2.1
+pypng==0.0.20
+qrcode==6.1
+pillow==7.2.0

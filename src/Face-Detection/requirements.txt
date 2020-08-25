@@ -1,0 +1,4 @@
+opencv-python==4.4.0.42
+opencv-python-headless==4.4.0.42
+opencv-contrib-python-headless==4.4.0.42
+opencv-contrib-python==4.4.0.42
