@@ -1,6 +1,6 @@
 # Python Quickstart
 
-![GitHub issues](https://img.shields.io/github/issues/shortthirdman/python-quickstart?style=plastic) | ![GitHub](https://img.shields.io/github/license/shortthirdman/python-quickstart?style=plastic) | ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/shortthirdman/python-quickstart)
+![GitHub issues](https://img.shields.io/github/issues/shortthirdman/python-quickstart?style=plastic) ![GitHub](https://img.shields.io/github/license/shortthirdman/python-quickstart?style=plastic) ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/shortthirdman/python-quickstart)
 
 * [Text-to-Speech Changing Voice](https://www.geeksforgeeks.org/text-to-speech-changing-voice-in-python/)
 
