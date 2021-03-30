@@ -3,4 +3,4 @@
 pyqrcode==1.2.1
 pypng==0.0.20
 qrcode==6.1
-pillow==7.2.0
+pillow==8.1.1
