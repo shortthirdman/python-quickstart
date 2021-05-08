@@ -1,6 +1,6 @@
 # Python Quickstart
 
-![GitHub issues](https://img.shields.io/github/issues/shortthirdman/python-quickstart)  ![GitHub](https://img.shields.io/github/license/shortthirdman/python-quickstart)  ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/shortthirdman/python-quickstart)  ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/shortthirdman/python-quickstart/master)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![GitHub issues](https://img.shields.io/github/issues/shortthirdman/python-quickstart)  ![GitHub](https://img.shields.io/github/license/shortthirdman/python-quickstart)  ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/shortthirdman/python-quickstart)  ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/shortthirdman/python-quickstart/master)
 
 * [Text-to-Speech Changing Voice](https://www.geeksforgeeks.org/text-to-speech-changing-voice-in-python/)
 
@@ -23,3 +23,7 @@
 * [Send message to Telegram user using Python](https://www.geeksforgeeks.org/send-message-to-telegram-user-using-python/)
 
 * [Speech Recognition in Python using Google Speech API](https://www.geeksforgeeks.org/speech-recognition-in-python-using-google-speech-api/)
+
+Note : **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
+
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
